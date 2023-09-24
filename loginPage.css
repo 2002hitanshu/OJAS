@@ -1,0 +1,304 @@
+.container {
+    box-sizing: content-box;
+    margin: 3rem;
+    width: auto;
+  }
+  
+  .image-1-icon {
+    position: absolute;
+    top: 66px;
+    left: 833px;
+    width: 495px;
+    height: 514px;
+    object-fit: cover;
+  }
+  .login-8-child {
+    position: absolute;
+    top: -20px;
+    left: -27px;
+    background-color: #ecbc76;
+    width: 700px;
+    height: 650px;
+  }
+  .group-child {
+    position: absolute;
+    top: -25px;
+    left: 0;
+    border-radius: 15px;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 35px rgba(0, 0, 0, 0.08);
+    width: 539px;
+    height: 551px;
+  }
+  .welcome-to-ojas {
+    position: absolute;
+    top: -50px;
+    left: 0;
+  }
+  .no-account {
+    margin: 0;
+  }
+  .sign-up {
+    margin: 0;
+    color: var(--color-darkgoldenrod);
+  }
+  .no-account-container {
+    position: absolute;
+    top: -30px;
+    left: 375px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 124px;
+    color: #8d8d8d;
+  }
+  .welcome-to-ojas-parent {
+    position: absolute;
+    top: 52px;
+    left: 44px;
+    width: 459px;
+    height: 48px;
+    font-size: 25px;
+  }
+  .enter-your-username,
+  .instance-child {
+    position: absolute;
+    top: 5%;
+    left: 0;
+  }
+  .instance-child {
+    height: 61.96%;
+    width: 100%;
+    top: 38.04%;
+    right: 0;
+    bottom: 0;
+    border-radius: var(--br-4xs);
+    background-color: var(--color-white);
+    border: 1px solid #adadad;
+    box-sizing: border-box;
+    font-size:large;
+  }
+  .username-or-email {
+    position: absolute;
+    height: 20.65%;
+    width: 66.96%;
+    top: 58.7%;
+    left: 5.54%;
+    font-size: var(--font-size-sm);
+    font-weight: 300;
+    color: var(--color-gray-100);
+    display: inline-block;
+  }
+  .enter-your-username-or-email-a-parent,
+  .instance-item {
+    position: absolute;
+    top: 115px;
+    left: 44px;
+    width: 451px;
+    height: 92px;
+  }
+  .instance-item {
+    height: 61.96%;
+    width: 100%;
+    top: 38.04%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-size:large;
+    border-radius: var(--br-4xs);
+    background-color: var(--color-white);
+    border: 1px solid #adadad;
+    box-sizing: border-box;
+  }
+  .enter-your-password-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 451px;
+    height: 92px;
+  }
+  .forgot-password {
+    position: absolute;
+    top: 107px;
+    left: 343px;
+    font-size: 13px;
+    color: #ad3113;
+  }
+  .group-item,
+  .instance-parent {
+    position: absolute;
+    top: 212px;
+    left: 44px;
+    width: 451px;
+    height: 127px;
+  }
+  .group-item {
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-color: #e48700;
+    box-shadow: 0 4px 19px rgba(119, 147, 65, 0.3);
+    height: 54px;
+  }
+  .sign-in {
+    position: absolute;
+    top: 15px;
+    left: 198px;
+    font-weight: 500;
+    display: inline-block;
+    width: 56px;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 351px;
+    left: 44px;
+    width: 451px;
+    height: 54px;
+    color: var(--color-white);
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 539px;
+    height: 521px;
+  }
+  .group-icon,
+  .group-icon1 {
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-icon {
+    position: absolute;
+    height: 63.74%;
+    width: 100%;
+    top: 18.13%;
+    right: 0;
+    bottom: 18.13%;
+    left: 0;
+  }
+  .group-icon1 {
+    height: 39.56%;
+    width: 39.56%;
+    top: 30.22%;
+    right: 30.22%;
+    bottom: 30.22%;
+    left: 30.22%;
+  }
+  .eye-1,
+  .group-icon1,
+  .text {
+    position: absolute;
+  }
+  .text {
+    top: 47.37%;
+    left: 59.09%;
+    font-weight: 600;
+  }
+  .eye-1 {
+    top: 386px;
+    left: 448px;
+    width: 22px;
+    height: 19px;
+    overflow: hidden;
+    font-size: 20px;
+  }
+  .group-parent {
+    position: absolute;
+    top: 61px;
+    left: 388px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 539px;
+    height: 521px;
+  }
+  .sign-in1 {
+    position: absolute;
+    top: 91px;
+    left: 432px;
+    font-size: 55px;
+    font-weight: 500;
+  }
+  .group-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-4xs);
+    background-color: #fff4e3;
+    width: 298px;
+    height: 55px;
+  }
+  .google-icon {
+    position: absolute;
+    top: 15px;
+    left: 32px;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+  }
+  .sign-in-with {
+    position: absolute;
+    top: 15px;
+    left: 79px;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    width: 298px;
+    height: 55px;
+  }
+  .group-child1,
+  .group-child2,
+  .group-container {
+    position: absolute;
+    top: 1px;
+    left: 318px;
+    width: 60px;
+    height: 55px;
+  }
+  .group-child2,
+  .group-container {
+    top: 0;
+    left: 391px;
+  }
+  .group-container {
+    top: 512px;
+    left: 427px;
+    width: 451px;
+    height: 56px;
+    color: var(--color-darkgoldenrod);
+  }
+  .or {
+    position: absolute;
+    top: 475px;
+    left: 640px;
+    color: #ababab;
+  }
+  .image-2-icon,
+  .image-3-icon {
+    position: absolute;
+    top: -5px;
+    left: -10px;
+    width: 200px;
+    height: 187px;
+    object-fit: cover;
+    mix-blend-mode: darken;
+  }
+  .image-3-icon {
+    top: 466px;
+    left: 10px;
+    width: 243px;
+    height: 151px;
+  }
+  .login-8 {
+    position: relative;
+    background-color: #fffef9;
+    width: 100%;
+    height: 630px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  
